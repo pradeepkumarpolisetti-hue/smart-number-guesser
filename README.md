@@ -3,7 +3,7 @@
 This is a Python program where the computer tries to guess a number selected by the user.
 ## 📸 Example Output
 
-![Game Screenshot](smarnoguesser.jpg)
+![Game Screenshot](smartnoguesser.jpg)
 ## How it works
 - The user thinks of a number within a range
 - The computer makes a guess
